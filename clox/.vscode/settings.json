@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "chunk.h": "c",
+    "stdlib.h": "c",
+    "__bit_reference": "cpp",
+    "__split_buffer": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "__hash_table": "cpp",
+    "array": "cpp",
+    "iterator": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp",
+    "__tuple": "c",
+    "type_traits": "c",
+    "limits": "c",
+    "ratio": "c",
+    "tuple": "c",
+    "variant": "c",
+    "chrono": "c",
+    "compare": "c",
+    "cstddef": "c"
+  }
+}
